@@ -3,9 +3,9 @@
 
 I do python C++ C# and scratch
 
-#If you want me to make you a program or game contact me 
+# If you want me to make you a program or game contact me 
 
-###Abilitys
+### Abilitys
 - [x] C#
 - [x] C++
 - [x] Lua
